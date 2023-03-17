@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+li{
+  list-style: none;
+}
+
+.boldme{
+  font-weight: bold;
+}
+
+.today{
+  color:#48B095;
+}
+
+.bgcard{
+  background-color: hsl(227, 47%, 96%);
+}
+
+.radius{
+  border-radius: 15px;
+}
+.tformat{
+  font-weight: bold;
+  font-size: 25px;
+}
+
